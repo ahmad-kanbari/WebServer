@@ -1,8 +1,8 @@
-# **Nginx 2.0**
+# **Nginx 2.1**
 
 ## **Introduction**
 
-Nginx 2.0 is a cutting-edge, event-driven web server designed with efficiency, scalability, and HTTP protocol compliance at its core. Inspired by the original Nginx architecture, our goal was to create a web server that matches its predecessor in performance, flexibility, and ease of use. Developed through the collaborative efforts of myself and [Tukka](https://github.com/tukka25), Nginx 2.0 embodies our commitment to innovation, offering a robust platform for both static and dynamic web content, optimized for modern web applications and services.
+Nginx 2.1 is a cutting-edge, event-driven web server designed with efficiency, scalability, and HTTP protocol compliance at its core. Inspired by the original Nginx architecture, our goal was to create a web server that matches its predecessor in performance, flexibility, and ease of use. Developed through the collaborative efforts of myself and [mosa awad]((https://github.com/MosesAwad) and moha (https://github.com/mahmmom/) embodies our commitment to innovation, offering a robust platform for both static and dynamic web content, optimized for modern web applications and services.
 
 ---
 
