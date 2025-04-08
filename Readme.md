@@ -1,4 +1,4 @@
-# **Nginx 2.1**
+# **WberServer - Nginx 2.1**
 
 ## **Introduction**
 
